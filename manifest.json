@@ -1,0 +1,7 @@
+{
+  "name": "ZS Zaraz Example MC",
+  "namespace": "zs-zaraz-example",
+  "description": "Just an example component for Zaraz certification",
+  "icon": "assets/icon.svg",
+  "permissions": {}
+}
